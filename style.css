@@ -1,0 +1,33 @@
+h1{
+  color: red;
+  background-color: azure
+}
+
+html {
+  background-color: #6b86b2;
+    background-image:url("http://s1.dmcdn.net/d861.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family:  Helvetica, sans-serif, "Courier New", sans-serif;
+}
+
+a:hover{
+  color: grey;
+}
+
+#about{
+  font-size: 20px;
+}
+
+#first {
+  font-weight: bold;
+}
+
+.font {
+  font-family: Helvetica, sans-serif, "Courier New", sans-serif;
+}
